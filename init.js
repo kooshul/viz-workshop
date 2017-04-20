@@ -60,8 +60,5 @@ var o = {
 
 		});
 	}
-
-
-
 }
 $(function(){ o.init(); });
